@@ -21,7 +21,7 @@ git clone https://github.com/asfDRT/prog_product_py.git
 ```
 2. Navigate to the project directory:
 ```
-cd your-repository
+cd your_repository
 ```
 3. Install requirements
 ```
