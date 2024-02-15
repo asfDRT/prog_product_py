@@ -14,7 +14,7 @@ Before running the application, ensure you have Python installed on your system.
 
 ## Installation
 
-1. Clone the repository or download the source code or just install from ЗДЕСЬ ДОБАВИТЬ ССЫЛКУ:
+1. Clone the repository or download the source code or just install(only for Windows) from https://disk.yandex.ru/d/kl2l4PnyHro8_A:
 
 ```
 git clone https://github.com/asfDRT/prog_product_py.git

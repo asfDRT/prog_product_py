@@ -14,7 +14,7 @@
 
 ## Установка
 
-1. Клонируйте репозиторий или загрузите exe из ВСТАВИТЬ ССЫЛКУ НА EXE:
+1. Клонируйте репозиторий или загрузите(только для Windows) exe из https://disk.yandex.ru/d/kl2l4PnyHro8_A:
 ```
 git clone https://github.com/asfDRT/prog_product_py.git
 ```
